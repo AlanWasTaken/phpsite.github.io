@@ -1,0 +1,11 @@
+/* CSS Document */
+
+.emailform{
+	border:1px solid grey;
+	border-radius:10pxl;
+	margin-top:15px;
+}
+
+form{
+	padding-bottom:15px;
+}
